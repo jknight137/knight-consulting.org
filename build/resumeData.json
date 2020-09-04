@@ -1,142 +1,137 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "name": "Knight Consulting",
+    "description": "We specialize in Cloud Migrations, Digital Transformations and solving unique technical problems particularly in the Cloud and DevOps space. We have experience in AWS, Google Cloud and Azure as well as on-premise clouds.",
+    "image": "profilepic.jpg",
+    "bio": "My name is John Knight and I am the head of Knight Consulting. I am a DevOps and Cloud Leader who specializes in digital transformations by implementing Continuous Integration, Containers and Infrastructure as Code in a DevOps Pipeline. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "john@knight-consulting.org",
+    "phone": "440-461-6113",
+    "github": "https://github.com/jknight137",
+    "project": "https://www.infoshock.net/",
+    "website": "http://www.thejohnknight.com",
+    "resumedownload": "https://www.linkedin.com/in/knightjohn/",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+        "name": "twitter",
+        "url": "https://www.linkedin.com/in/knightjohn/",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/knightjohn/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "instagram",
+        "url": "https://www.linkedin.com/in/knightjohn/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/jknight137/",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Skills commonly used",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Quantic School of Business and Technology",
+        "degree": "Executive MBA",
+        "graduated": "Will graduate September 2021",
+        "description": "Executive MBA with 3 specializations including Data Analytics, Advance Finance and Entrepreneurship"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "American Intercontinental University",
+        "degree": "Master Degree in Information Technology",
+        "graduated": "2009",
+        "description": "Graduated with a 4.0 GPA and a concentration in Project Management."
+      },
+      {
+        "school": "Full Sail Real World Education",
+        "degree": "Bachelor in Science in Game Design and Development",
+        "graduated": "2005",
+        "description": "Designed a Digital Board game that used wargaming models and spreadsheets to hotswap the values for all units"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Knight Consulting",
+        "title": "Head of DevOps",
+        "years": "March 2010 - September 2020",
+        "description": "Consulted for the Following Fortune 1000 companies: Equifax, AT&T, Walmart, Bank of America, Fujitsu."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Staywell / WebMD",
+        "title": "Director of DevOps",
+        "years": "November 2017 - June 2020",
+        "description": "Created the DevOps program, hired and level-set the entire team of 6 cloud engineers and introduced most of their modern DevOps practices."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"60%"
+        "name": "DevSecOps",
+        "level": "50%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name": "Docker",
+        "level": "50%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Terraform",
+        "level": "50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Kubernetes",
+        "level": "50%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name": "CI/CD",
+        "level": "50%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name": "SRE",
+        "level": "50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "Python",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "John Knight Website",
+        "category": "My personal site.",
+        "image": "dummy.png",
+        "url": "https://thejohnknight.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Infoshock Website",
+        "category": "My technology Company",
+        "image": "dummy.png",
+        "url": "http://www.infoshock.net"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Lifetrainer",
+        "category": "Website I built to offer coaching services",
+        "image": "dummy.png",
+        "url": "http://www.lifetrainer.net"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "My Resume",
+        "image": "dummy.png",
+        "url": "https://thejohnknight.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Knight Consulting",
+        "category": "My Consulting Company",
+        "image": "dummy.png",
+        "url": "http://www.knight-consulting.org"
       }
     ]
   }
